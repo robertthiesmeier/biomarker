@@ -1,2 +1,3 @@
-# Systematically missing biomarker values in clinical trials
-Bivariate meta-analysis and Multiple imputation for missing biomarker values
+# Comparing bivariate meta-analysis and multiple imputation for systematically missing data
+
+
