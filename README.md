@@ -7,7 +7,6 @@
 ## Generate the data
 
 ## Bivariate MA
-`mvmeta'
 
 
 ## Multiple imputation approach
