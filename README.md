@@ -1,4 +1,4 @@
-# Comparing bivariate meta-analysis and multiple imputation for systematically missing NT-proBNP values
+# Statistical approaches for systematically missing covariates in individual participant data meta-analysis: insights and applications using 5 large clinical trials in cardiovascular research
 This repo is related to the manuscript: XXXX. While we cannot share any data, the code used in this repo presents a simplified version of how we derived the results in the analysis of the paper.
 
 ## What is the context? 
